@@ -1,5 +1,7 @@
 This guide walks you through setting up a fully functional **Spark Cluster** with **Spark Master**, **Spark Worker**, and **Jupyter Notebook** using Docker.
 
+> **Note**: Watch https://www.youtube.com/watch?v=QrX0JW2efk8 for a video walkthrough of the setup process.
+> Github: https://github.com/manisnitt/spark_local_setup/blob/main/README.md
 ---
 
 ## **Prerequisites**

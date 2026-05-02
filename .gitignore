@@ -1,0 +1,2 @@
+# do not commit data folder or any sub folders or files within it
+data/
